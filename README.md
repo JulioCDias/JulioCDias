@@ -31,16 +31,17 @@ Sou Analista de Sistemas e Desenvolvedor Full Stack apaixonado por tecnologia, a
 ---
 
 ## 🚀 Habilidades
-
-- **Linguagens:** JavaScript, Python, Java, PHP, SQL.
-- **Frameworks:** React, Node.js, Django, Spring, Laravel.
+- **UI UX:** Figma, Adobe XD.
+- **Linguagens:** JavaScript, Python, Java, C#, SQL.
+- **Frameworks:** React, Node.js, Django, Spring, Asp.Net Core.
 - **Ferramentas:** Git, Docker, CI/CD.
+- **Cloud:** (em Progresso).
 
 ---
 
 ## 💼 Projetos em Destaque
 
-- **(Em Andamento) ..
+- https://github.com/JulioCDias/App-Atividades-React-asp
 - **[(Em Andamento) ..
 
 ---
