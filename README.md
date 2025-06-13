@@ -23,7 +23,9 @@ Sou Analista de Sistemas e Desenvolvedor Full Stack, apaixonado por tecnologia, 
 ## ⚡ Status do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulioCDias&hide=contribs,prs,issues,stars&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JulioCDias&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCDias&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JulioCDias&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
