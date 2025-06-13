@@ -35,9 +35,9 @@ Sou Analista de Sistemas e Desenvolvedor Full Stack, apaixonado por tecnologia, 
 ## 🚀 Habilidades
 
 - **UI/UX:** Figma, Adobe XD  
-- **Linguagens:** JavaScript, Python, Java, C#, SQL  
-- **Frameworks:** React.js, Node.js, Django, Spring Boot, ASP.NET Core  
-- **Ferramentas:** Git, Docker, CI/CD  
+- **Linguagens:** JavaScript, C#, SQL  
+- **Frameworks:** React.js, Node.js, ASP.NET Core  
+- **Ferramentas:** Git, Docker  
 - **Cloud:** Em progresso (estudando Azure e AWS)
 
 ---
@@ -45,7 +45,9 @@ Sou Analista de Sistemas e Desenvolvedor Full Stack, apaixonado por tecnologia, 
 ## 💼 Projetos em Destaque
 
 - [App de Atividades - React + ASP.NET Core](https://github.com/JulioCDias/App-Atividades-React-asp)
-- (Em Andamento) Helpdesk com controle de SLA, mapas e notificações.
+- (Em Andamento) Only API
+- (Em Andamento) Only Front
+- 
 
 ---
 
