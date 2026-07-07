@@ -36,8 +36,6 @@ Sou **Analista de Sistemas** e **Desenvolvedor Full Stack**, apaixonado por **te
   <img src="https://github-profile-trophy.vercel.app/?username=JulioCDias&theme=radical&no-frame=true&margin-w=15&title=Commit,Repositories,Stars,Followers" alt="GitHub Trophies" />
 </p>
 
-> 💡 *As métricas são atualizadas automaticamente pelo GitHub com leve atraso de cache (~24h para stats, ~6 dias para linguagens).*
-
 ---
 
 ## 🧰 Stack Atual
