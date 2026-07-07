@@ -97,7 +97,7 @@ Sou **Analista de Sistemas** e **Desenvolvedor Full Stack**, apaixonado por **te
 
 ## 🎮 Interesses
 
-Além do desenvolvimento, sou fã de **animes** (principalmente *slice of life* e *romance*) e **games** — RPGs e estratégia são meus favoritos.  
+Além do desenvolvimento, sou fã de **animes**  e **games** — RPGs e estratégia são meus favoritos.  
 Sempre em busca de novas ideias, desafios e colaborações!
 
 ---
